@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+figs/
+*.pdf
+*.html
+build_notebook.py
+aciklamalar.py
+yorumlar.py
+to_py.py
+.DS_Store
+Uygulama-5.pdf
+anlatim_notu.md
